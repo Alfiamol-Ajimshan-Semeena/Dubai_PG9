@@ -1,13 +1,13 @@
-**GROUP 9**
+GROUP 9
 
 Project Title: FOOD Calories Estimation
 
-Team Members and Responsibilities:
+Group Members
 1. Alfiamol Ajimshan Semeena
 2. Alfiya Aziz Tamboli
 3. Rukhsana Parilakathoott
 4. Tanishka Bhise
-5. Yashica Jain - Feature selection, Elbow method, Model compariso with train test split
+5. Yashica Jain 
 
 Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine learning. 
             It would assist users in conveniently tracking their dietary intake bye providing appropriate calorie estimates 
