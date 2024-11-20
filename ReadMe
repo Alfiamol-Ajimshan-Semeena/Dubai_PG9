@@ -9,9 +9,9 @@ Group Members
 4. Tanishka Bhise
 5. Yashica Jain 
 
-Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine learning. 
-             It would assist users in conveniently tracking their dietary intake bye providing appropriate calorie estimates 
-            based on food images.
+Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine 
+            learning. It would assist users in conveniently tracking their dietary intake bye providing appropriate 
+            calorie estimates based on food images.
 
 Sources for dataset:
 The project contains 1 tabular data sets and 2 image data sets, sourced from Kaggle.
