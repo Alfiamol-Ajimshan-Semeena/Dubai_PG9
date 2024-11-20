@@ -2,6 +2,7 @@ GROUP 9
 
 FOOD Calories Estimation
 
-Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine learning. It would assist users in conveniently tracking their dietary 
-            intake bye providing appropriate calorie estimates based on food images.
+Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine learning. 
+            It would assist users in conveniently tracking their dietary intake bye providing appropriate calorie estimates 
+            based on food images.
 
