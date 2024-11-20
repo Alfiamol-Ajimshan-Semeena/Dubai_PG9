@@ -1,8 +1,22 @@
 GROUP 9
 
-FOOD Calories Estimation
+Project Title: FOOD Calories Estimation
+
+Team Members and Responsibilities:
+1. Alfiamol Ajimshan Semeena
+2. Alfiya Aziz Tamboli
+3. Rukhsana Parilakathoott
+4. Tanishka Bhise
+5. Yashica Jain - Feature selection, Elbow method, Model compariso with train test split
 
 Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine learning. 
             It would assist users in conveniently tracking their dietary intake bye providing appropriate calorie estimates 
             based on food images.
 
+Sources for dataset:
+The project contains 1 tabular data sets and 2 image data sets, sourced from Kaggle.
+- Tabular data set:
+1. https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset
+- Image data set:
+1. https://www.kaggle.com/datasets/marquis03/fruits-100
+2. https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
