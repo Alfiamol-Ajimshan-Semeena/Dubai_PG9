@@ -14,8 +14,12 @@ Group Members
 5. Yashica Jain 
 
 Research Objectives
-*Food Calorie Estimator: Design a system to accurately estimate food calorie content by employing image recognition and machine learning techniques.
-*Enhancing Dietary Tracking: Allow for efficient and easy dietary intake monitoring by users, taking advantage of both image and tabular datasets.
+*Food Calorie Estimator: Design a system to accurately estimate food calorie content by employing image recognition and 
+                         machine learning techniques.
+*Enhancing Dietary Tracking: Allow for efficient and easy dietary intake monitoring by users, taking advantage of both 
+                             image and tabular datasets.
+*Improve the Performance of Models: Train deep machine learning models, such as CNNs, on these bulk data to achieve the best 
+                                    classification accuracy and estimation of food items and their calorie counts.
 
 Sources for dataset:
 The project contains 1 tabular data sets and 2 image data sets, sourced from Kaggle.
