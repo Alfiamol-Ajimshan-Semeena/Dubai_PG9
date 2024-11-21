@@ -22,6 +22,11 @@ Research Objectives
                                     the best classification accuracy and estimation of food items and their calorie 
                                     counts.
 
+Project Milestone
+* Week 4 - Project Pitch
+* Week 5 - 11 Project Workflow And Execution
+* Week 12 - Project Submission
+
 Sources for dataset:
 The project contains 1 tabular data sets and 2 image data sets, sourced from Kaggle.
 - Tabular data set:
@@ -29,3 +34,7 @@ The project contains 1 tabular data sets and 2 image data sets, sourced from Kag
 - Image data set:
 1. https://www.kaggle.com/datasets/marquis03/fruits-100
 2. https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+
+Data Preparation Pipeline
+
+
