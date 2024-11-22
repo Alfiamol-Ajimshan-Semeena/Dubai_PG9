@@ -121,14 +121,14 @@ R3 : Clustering
 R4 : Baseline Training and Evaluation Experiments
  - Train at least three machine learning models to predict food classes based on image and tabular features including but not limited 
     to the following: Decision Trees
-  Repository Location: -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/9_Overfitting_and_Generalization.ipynb
-                       -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/08.DT(Hyperparameter).ipynb
-
+  Repository Location: -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/07.DT(Hyperparameter).ipynb
+                       -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/08.%20Overfitting%20and%20Generalization.ipynb
+                       -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/09_Model_comparsions_on_train_test_split.ipynb
 R5 : Neural Networks
  - This would involve the classification using the neural network model-based, including MLPs and CNNs, training would involve tuning of 
    hyperparameters to come up with a more accurate model. The results obtained are compared against the baseline machine learning models.
    - MLP
-      Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/11_Multiple_Layer_Perceptron.ipynb
+      Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/10_Multiple_Layer_Perceptron.ipynb
    - CNN
       Repository Location: 
     
