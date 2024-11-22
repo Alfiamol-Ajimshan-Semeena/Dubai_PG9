@@ -134,6 +134,6 @@ R5 : Neural Networks
 Files:
 - Datasets : It contains the tabular and image dataset files
 - notebook : It contains separate notebooks for the various steps involved.
-- Report : The documentation of the entire coursework.
+- Documentation : The documentation of the entire coursework.
 - ReadMe : Design of the Course Work 
     
