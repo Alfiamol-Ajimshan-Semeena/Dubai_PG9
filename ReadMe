@@ -14,13 +14,13 @@ Group Members
 5. Yashica Jain 
 
 Research Objectives
-*Food Calorie Estimator: Design a system to accurately estimate food calorie content by employing image recognition
-                         and machine learning techniques.
-*Enhancing Dietary Tracking: Allow for efficient and easy dietary intake monitoring by users, taking advantage of 
-                             both image and tabular datasets.
-*Improve the Performance of Models: Train deep machine learning models, such as CNNs, on these bulk data to achieve
-                                    the best classification accuracy and estimation of food items and their calorie 
-                                    counts.
+*Food Calorie Estimator: Design a system to accurately estimate food calorie content by employing 
+                         image recognition and machine learning techniques.
+*Enhancing Dietary Tracking: Allow for efficient and easy dietary intake monitoring by users, taking 
+                             advantage of both image and tabular datasets.
+*Improve the Performance of Models: Train deep machine learning models, such as CNNs, on these bulk 
+                                    data to achieve the best classification accuracy and estimation 
+                                    of food items and their calorie counts.
 
 Milestone
 Milestone 1: Project Initialization and Planning
@@ -32,31 +32,36 @@ Tasks : *Form project groups and assign roles.
 Milestone 2: Data Collection and Initial Analysis
 Tasks(Week 2-3): *Gather and preprocess the datasets (R2).
                  *Conduct exploratory data analysis (EDA) (R2).
-                 *Create visualizations to present initial data patterns and trends (R2).
+                 *Create visualizations to present initial data 
+                  patterns and trends (R2).
                  *Begin feature selection and evaluation (R2).
-                 *Deliverables: Report on data collection, preprocessing, and initial EDA results.
+                 *Deliverables: Report on data collection, preprocessing, and 
+                  initial EDA results.
 Milestone 3: Clustering Analysis
 Tasks( Week 4-5): *Implement a clustering algorithm (R3).
                   *Evaluate the performance of the clustering algorithm (R3).
                   *Interpret and discuss the clustering results (R3).
-                  *Deliverables: Clustering analysis report, including implementation, evaluation, and 
-                   interpretation.
+                  *Deliverables: Clustering analysis report, including 
+                   implementation, evaluation, and interpretation.
 Milestone 4: Baseline Machine Learning Models
-Tasks( Week 6-7): *Apply at least three machine learning algorithms, including Decision Trees and two 
-                   others (R4).
+Tasks( Week 6-7): *Apply at least three machine learning algorithms, including 
+                   Decision Trees and two others (R4).
                   *Train and evaluate these models (R4).
                   *Compare model performance using appropriate metrics (R4).
-                  *Discuss practical applications of Decision Trees in the context of your topic (R4).
-                  *Deliverables: Baseline machine learning models report, including implementation, 
-                   evaluation, and comparison.
+                  *Discuss practical applications of Decision Trees in the context
+                   of your topic (R4).
+                  *Deliverables: Baseline machine learning models report, including
+                   implementation, evaluation, and comparison.
 Milestone 5: Neural Network Models
 Tasks( Week 8-9): *Implement neural network models such as MLPs and CNNs (R5).
                   *Train and fine-tune the neural network models (R5).
-                  *Assess and compare the performance of neural network models with other techniques (R5).
-                  *Deliverables: Neural network models report, including implementation, training, evaluation,
-                   and comparison.
+                  *Assess and compare the performance of neural network models 
+                   with other techniques (R5).
+                  *Deliverables: Neural network models report, including 
+                   implementation, training, evaluation, and comparison.
 Milestone 6: Integration and Finalization
-Tasks(Week 10-11): *Integrate all components of the project into a cohesive final report (R1-R5).
+Tasks(Week 10-11): *Integrate all components of the project into a cohesive 
+                    final report (R1-R5).
                    *Prepare visualizations and summaries for the final presentation.
                    *Review and revise the project based on feedback.
                    *Deliverables: Draft of the final report and presentation materials.
