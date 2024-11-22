@@ -2,14 +2,16 @@ GROUP 9
 
 Project Title: FOOD Calories Estimation
 
-Objective : Is a calorie estimation tool of food items, which applies techniques of image recognition with machine 
-            learning. It would assist users in conveniently tracking their dietary intake bye providing appropriate 
-            calorie estimates based on food images.
+Objective : To develop a calorie estimation tool for food items using image recognition
+            and machine learning, facilitating users in conveniently tracking their
+            dietary intake by providing accurate calorie estimates based on
+            food images
+            
 
 Group Members
 1. Alfiamol Ajimshan Semeena
 2. Alfiya Aziz Tamboli
-3. Rukhsana Parilakathoott
+3. Rukhsana Parilakathoott Shajahan
 4. Tanishka Bhise
 5. Yashica Jain 
 
@@ -119,7 +121,8 @@ R3 : Clustering
 R4 : Baseline Training and Evaluation Experiments
  - Train at least three machine learning models to predict food classes based on image and tabular features including but not limited 
     to the following: Decision Trees
-  Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/08.DT(Hyperparameter).ipynb
+  Repository Location: -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/9_Overfitting_and_Generalization.ipynb
+                       -https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/08.DT(Hyperparameter).ipynb
 
 R5 : Neural Networks
  - This would involve the classification using the neural network model-based, including MLPs and CNNs, training would involve tuning of 
