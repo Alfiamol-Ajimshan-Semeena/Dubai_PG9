@@ -132,7 +132,8 @@ R5 : Neural Networks
    - CNN
       Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/11.%20Convolutional_Neural_Network.ipynb
 Files:
-- Datasets : It contains the tabular and image dataset files
+- Datasets : It contains the tabular and image dataset give by one drive link
+            (https://heriotwatt-my.sharepoint.com/personal/tnb4000_hw_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftnb4000%5Fhw%5Fac%5Fuk%2FDocuments%2FAttachments%2Fimages%2Ezip&parent=%2Fpersonal%2Ftnb4000%5Fhw%5Fac%5Fuk%2FDocuments%2FAttachments&ga=1)
 - notebook : It contains separate notebooks for the various steps involved.
 - Documentation : The documentation of the entire coursework.
 - ReadMe : Design of the Course Work 
