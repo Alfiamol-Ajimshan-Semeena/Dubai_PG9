@@ -39,18 +39,22 @@ Milestone 3: Clustering Analysis
 Tasks( Week 4-5): *Implement a clustering algorithm (R3).
                   *Evaluate the performance of the clustering algorithm (R3).
                   *Interpret and discuss the clustering results (R3).
-                  *Deliverables: Clustering analysis report, including implementation, evaluation, and interpretation.
+                  *Deliverables: Clustering analysis report, including implementation, evaluation, and 
+                   interpretation.
 Milestone 4: Baseline Machine Learning Models
-Tasks( Week 6-7): *Apply at least three machine learning algorithms, including Decision Trees and two others (R4).
+Tasks( Week 6-7): *Apply at least three machine learning algorithms, including Decision Trees and two 
+                   others (R4).
                   *Train and evaluate these models (R4).
                   *Compare model performance using appropriate metrics (R4).
                   *Discuss practical applications of Decision Trees in the context of your topic (R4).
-                  *Deliverables: Baseline machine learning models report, including implementation, evaluation, and comparison.
+                  *Deliverables: Baseline machine learning models report, including implementation, 
+                   evaluation, and comparison.
 Milestone 5: Neural Network Models
 Tasks( Week 8-9): *Implement neural network models such as MLPs and CNNs (R5).
                   *Train and fine-tune the neural network models (R5).
                   *Assess and compare the performance of neural network models with other techniques (R5).
-                  *Deliverables: Neural network models report, including implementation, training, evaluation, and comparison.
+                  *Deliverables: Neural network models report, including implementation, training, evaluation,
+                   and comparison.
 Milestone 6: Integration and Finalization
 Tasks(Week 10-11): *Integrate all components of the project into a cohesive final report (R1-R5).
                    *Prepare visualizations and summaries for the final presentation.
@@ -98,20 +102,19 @@ Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/0
 R3 : Clustering
 - Clustering algorithms are applied to group food items based on nutritional properties
   *Techniques Used:
-            - K-Means Clustering: It clusters the data based on centroid-based optimization.
-            Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/5.%20Kmeans%20(1).ipynb
-            - Elbow Method: It decides the optimum number of clusters depending on the within-cluster variance.
-            Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/03_Elbow_method.ipynb
-            - Silhouette Analysis: This gives a cluster's quality based on the similarity of items within a cluster to others.
-            Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/04_Silhouette%20method.ipynb
-            - Hierarchical Clustering: Builds a tree-like structure(dendrogram) to show hierarchical relationships between items.
-            Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/06._Hierarchical_Clustering.ipynb
+     - K-Means Clustering: It clusters the data based on centroid-based optimization.
+        Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/5.%20Kmeans%20(1).ipynb
+     - Elbow Method: It decides the optimum number of clusters depending on the within-cluster variance.
+        Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/03_Elbow_method.ipynb
+     - Silhouette Analysis: This gives a cluster's quality based on the similarity of items within a cluster to others.
+        Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/04_Silhouette%20method.ipynb
+     - Hierarchical Clustering: Builds a tree-like structure(dendrogram) to show hierarchical relationships between items.
+        Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/06._Hierarchical_Clustering.ipynb
 
 R4 : Baseline Training and Evaluation Experiments
  - Train at least three machine learning models to predict food classes based on image and tabular features including but not limited 
     to the following: Decision Trees
   Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/08.DT(Hyperparameter).ipynb
-
 
 R5 : Neural Networks
  - This would involve the classification using the neural network model-based, including MLPs and CNNs, training would involve tuning of 
