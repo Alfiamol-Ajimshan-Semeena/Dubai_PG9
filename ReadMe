@@ -130,7 +130,7 @@ R5 : Neural Networks
    - MLP
       Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/10_Multiple_Layer_Perceptron.ipynb
    - CNN
-      Repository Location: 
+      Repository Location: https://github.com/Alfia2003/Dubai_PG9/blob/main/notebook/11.%20Convolutional_Neural_Network.ipynb
 Files:
 - Datasets : It contains the tabular and image dataset files
 - notebook : It contains separate notebooks for the various steps involved.
